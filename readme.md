@@ -11,7 +11,7 @@
 ### 단국대학교 개발 및 보안 동아리 Aegis 소속 (2024.09 -)
 ### [단국대 창업경진대회 10팀 선정](https://startup.dankook.ac.kr/web/startup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=793567) 고령층 대상 길찾기 어플리케이션 '일상이상', 7위 (2024.10)
 ### Udemy 러닝 크루 <AWS Certified Solutions Architect Associate - B팀> 팀장 (2025.02.01 - 2025.04.30)
-### [대규모 리액트 웹 앱 개발 - 도서 서평단 참여](https://product.kyobobook.co.kr/detail/S000215561417)(2025.02.06)
+### [대규모 리액트 웹 앱 개발 - 도서 서평단 참여](https://product.kyobobook.co.kr/detail/S000215561417) (2025.02.06)
 
 
 ##  🌱 Certificate
