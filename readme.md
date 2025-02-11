@@ -14,7 +14,6 @@
 ### IT 학습 커뮤니티 서울 우먼잇츠(IT's) 소속 (2025.01.16 - )
 ### Udemy 러닝 크루 <AWS Certified Solutions Architect Associate - B팀> 팀장 (2025.02.01 - 2025.04.30)
 ### [대규모 리액트 웹 앱 개발 - 도서 서평단 참여](https://product.kyobobook.co.kr/detail/S000215561417) (2025.02.06)
-### [구름톤 유니브 4기](https://9oormthon.university/) 미르미 (2025.02 - )
 
 ##  🌱 Certificate
 ### SQLD 취득 (2024.03)
