@@ -18,9 +18,9 @@
 ### 단국대학교 Aegis 코드클럽 - 대지중학교 대상으로 파이썬 실습 봉사활동 (2025.04-)
 
 ##  :clipboard: Project
-### 용인시 도서 상호대차 웹 서비스(https://github.com/MoreThanDaily/Inter-library-Loan) (2024.06-2024.08)
-### 용인시 노인 길찾기 어플리케이션(https://github.com/MoreThanDaily) (2024.08-2024.10) 
-### 집중력 SPAN 측정 웹 서비스(https://github.com/TABA6-4/FE) (2024.11-2024.12) 
+### [용인시 도서 상호대차 웹 서비스](https://github.com/MoreThanDaily/Inter-library-Loan) (2024.06-2024.08)
+### [용인시 노인 길찾기 어플리케이션](https://github.com/MoreThanDaily) (2024.08-2024.10) 
+### [집중력 SPAN 측정 웹 서비스](https://github.com/TABA6-4/FE) (2024.11-2024.12) 
 
 ##  🌱 Certificate
 ### SQLD 취득 (2024.03)
