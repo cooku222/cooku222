@@ -6,7 +6,7 @@
  <br/>
 
 ## :mortar_board: Education
-### [단국대학교](https://dankook.ac.kr/)  물리학과 & 사이버보안학과 (2020 - ) GPA(3.96/4.5)
+### [단국대학교](https://dankook.ac.kr/)  물리학과 & 사이버보안학과 (2020 - ) GPA(3.96/4.5) (Top 3% in 3rd grade)
 ##  :clipboard: Experience & Awards
 ### IT 테크 블로그 운영(https://cookusuniverse.tistory.com/) (2020 - )
 ### [용인시 K-HTML 2박 3일 해커톤](https://webzine.dankook.ac.kr/news/articleView.html?idxno=180) 최우수상 수상 및 팀장 (2024.08.12-2024.08.14)
