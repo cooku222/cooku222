@@ -29,8 +29,8 @@
 ##  🌱 Certificate
 ### SQLD 취득 (2024.03)
 ### TABA 6기 수료 (2024.09-2024.12)
-### Toeic Speaking (2025.01)
-### OPIc (2025.01)
+### Toeic Speaking IM3 (2025.01)
+### OPIc IM1 (2025.01)
 
 ## Tech Stack
 <!--
