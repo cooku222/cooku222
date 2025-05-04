@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aftermatter0901)](https://solved.ac/aftermatter0901/) -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cooku222&" alt="cooku222" /> -->
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
-![snake gif](https://github.com/cooku222/cooku222/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cooku222/cooku222/github-contribution-grid-snake.svg)
