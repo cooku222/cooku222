@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![cooku222's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cooku222)](https://github.com/cooku222/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aftermatter0901)](https://solved.ac/aftermatter0901/) 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cooku222&" alt="cooku222" /> 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohee-zoe&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cooku222&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 ![snake gif](https://github.com/cooku222/cooku222/github-contribution-grid-snake.svg)
