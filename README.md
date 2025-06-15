@@ -12,7 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooku222&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooku222&layout=compact&theme=radical)](https://github.com/cooku222/github-readme-stats)
-[![cooku222's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cooku222)](https://github.com/cooku222/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aftermatter0901)](https://solved.ac/aftermatter0901/) 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cooku222&" alt="cooku222" /> 
 
