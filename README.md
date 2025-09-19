@@ -4,19 +4,19 @@
 - React
 - Flutter
 
-### Language
+### Languages
 - Python
 - Java
 - Dart
 - JavaScript
 
-### White Hacking Stack
+### White Hat Hacking Stacks
 - Web 
 - Reversing
 - Crypto 
 - Forensic
 
-### Exploit Tool
+### Exploit Tools
 - Burp Suite
 - IDA Pro, OllyDbg
 - HxD, FTK Imager, Autopsy, Registry Explorer, ChromeCacheView, WinPrefetchView, Volatility3, ... etc
