@@ -1,5 +1,22 @@
-- 백준 : https://www.acmicpc.net/user/aftermatter0901
-- Dreamhack : https://dreamhack.io/users/40912/wargame
-- Tech blog : https://cookusuniverse.tistory.com
-- 이력서 : https://www.notion.so/Jeon-Subin-23bbc6568a20804da692d95a4bf48c64?source=copy_link
-- Linkedin : https://www.linkedin.com/in/%EC%88%98%EB%B9%88-%EC%A0%84-759557252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+## 🚀 Tech Stack
+
+### Front-End
+- React
+- Flutter
+
+### Language
+- Python
+- Java
+- Dart
+- JavaScript
+
+### White Hacking Stack
+- Web 
+- Reversing
+- Crypto 
+- Forensic
+
+### White Hacking Tool
+- Burp Suite
+- IDA Pro, OllyDbg
+- HxD, FTK Imager, Autopsy, Registry Explorer, ChromeCacheView, WinPrefetchView, Volatility3, ... etc
