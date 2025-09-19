@@ -16,7 +16,7 @@
 - Crypto 
 - Forensic
 
-### White Hacking Tool
+### Exploit Tool
 - Burp Suite
 - IDA Pro, OllyDbg
 - HxD, FTK Imager, Autopsy, Registry Explorer, ChromeCacheView, WinPrefetchView, Volatility3, ... etc
