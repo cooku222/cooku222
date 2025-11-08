@@ -29,7 +29,7 @@ GPA (3.6/4.5)
 **충남톤 오거나이저**
 [Link](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate)
 
-## ScholarShip
+##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다)**
 
 `2021` **단국대학교 과학기술대학 기초과학우수장학**
@@ -60,7 +60,7 @@ GPA (3.6/4.5)
 
 `2025.09` **KAKAO X 구름 주최 구름톤 유니브 4기 프론트엔드 & 대표 수료**
 
-## 🖳 Project
+##  🖳 Project
 ### 진행한 학부 프로젝트
 | 프로젝트명 | 보기 |
 |------------|------|
