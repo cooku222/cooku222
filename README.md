@@ -30,7 +30,7 @@ GPA (3.6/4.5)
 [Link](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate)
 
 ##  🏆 ScholarShip
-`2020` **단국대학교 마일리지 장학(과내 최다)**
+`2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
 
 `2021` **단국대학교 과학기술대학 기초과학우수장학**
 
