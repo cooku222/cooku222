@@ -100,7 +100,7 @@ GPA (3.6/4.5)
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/dart-A8B9CC?style=for-the-badge&logo=dart&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
 
 ### Front End
-<img src="https://img.shields.io/badge/Flutter.dart-000000?style=for-the-badge&logo=next.js&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Flutter.dart-000000?style=for-the-badge&logo=flutter.dart&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
 
 ### Back End
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff"/>
