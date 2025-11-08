@@ -22,10 +22,10 @@ GPA (3.6/4.5)
 `2024.09 -`
 **단국대학교 개발&보안 동아리 Aegis 회원**
 
-`2025`
+`2025.02 - 2025.09`
 **KAKAO X 구름 주최 IT 연합동아리리 구름톤 유니브 4기 단국대학교(천안) 대표**
 
-`2025`
+`2025.07`
 **충남톤 오거나이저**
 [Link](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate)
 
