@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Tistory%20Blog%20Writer-00c792?style=flat&logo=bookstack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="mailto:aftermatter0901@daum.net"> 
-  <img src="https://img.shields.io/badge/aftermatter0901@daum.net-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:aftermatter0901@daum.net" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+  <img src="https://img.shields.io/badge/aftermatter0901@daum.net-d14836?style=flat&logo=daum&logoColor=white&link=mailto:aftermatter0901@daum.net" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 </a>
 
 ## :mortar_board: Education
