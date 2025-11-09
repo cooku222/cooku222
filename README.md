@@ -54,6 +54,8 @@ GPA (3.6/4.5)
 | **2025 CIT@CTF** | **DKU_Aegis** |  |  |
 | **2025 DaVinci CTF** | **DKU_Aegis** | **12위**|  |  |
 | **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** |  | 유관기업 입사로 인한 불참 |
+| **2025 ELECCON Quals** | **스카이맛 쿠키** |  |  |
+| **2025 AUTOHACK Quals** | **공하랑 없는 공하랑팀** |  |  |
 | **2025 Osu!gaming CTF** | **RubiyaLab** | **6위** | |  |
 | **2025 DEADFACE CTF** | **DKU_Aegis** | **296위** | | |
 
