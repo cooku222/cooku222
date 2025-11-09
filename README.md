@@ -43,12 +43,13 @@ GPA (3.6/4.5)
 
 `2023` **단국대학교 성적우수 장학(물리학과 과 상위 3%)**
 
-##  🏆 Awards & CTFs 
+##  🏆 Awards & Participated CTFs 
 | 대회 명 | 팀 명 | 상훈 | 뉴스 기사 | 비고 |
 |---------|-----|------|--------|---|
 | **2020 단국대학교 천안 BSM 센터 후기 공모전** | | **최우수상** |  |  |
 | **2024 용인시 K-HTML 해커톤** | **일상이상** |  **최우수상(팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/015/0004703563?sid=100) |  |
 | **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  |
+| **2025 Codegate CTF Quals** | **DKU_Aegis** | **119위** |  |  |
 | **2025 Hacktheon Sejong** | **고졸 사토루** | **41위** |  |  |
 | **2025 CIT@CTF** | **DKU_Aegis** |  |  |
 | **2025 DaVinci CTF** | **DKU_Aegis** | **12위**|  |  |
