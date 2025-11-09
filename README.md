@@ -26,7 +26,10 @@ GPA (3.6/4.5)
 `2025.02 - 2025.09`
 **KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 단국대학교(천안) 대표**
 
-`2025.05`
+`2025.03 -`
+**CTF Team : DKU_Aegis 멤버**
+
+`2025.05 -`
 **CTF Team : RubiyaLab 멤버**
 [Link](https://rubiyalab.team) 
 
