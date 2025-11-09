@@ -26,9 +26,15 @@ GPA (3.6/4.5)
 `2025.02 - 2025.09`
 **KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 단국대학교(천안) 대표**
 
+`2025.05`
+**화이트해커 Team : RubiyaLab 멤버**
+[Link](https://rubiyalab.team) 
+
 `2025.07`
 **충남톤 오거나이저**
 [Link](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate)
+
+
 
 ##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
