@@ -61,6 +61,7 @@ GPA (3.6/4.5)
 | **2025 AUTOHACK Quals** | **공하랑 없는 공하랑팀** |  |  |
 | **2025 Osu!gaming CTF** | **RubiyaLab** | **6위** | |  |
 | **2025 DEADFACE CTF** | **DKU_Aegis** | **296위** | | |
+| **2025 BuckeyeCTF** | **RubiyaLab** | **22위** |  |  |
 
 ##  🌱 Certificate
 `2024.03` **SQLD 취득**
