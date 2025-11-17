@@ -6,6 +6,9 @@
 <a href="mailto:aftermatter0901@daum.net"> 
   <img src="https://img.shields.io/badge/aftermatter0901@daum.net-d14836?style=flat&logo=daum&logoColor=white&link=mailto:aftermatter0901@daum.net" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 </a>
+<a href="mailto:LinkedIn"> 
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=daum&logoColor=white&link=malito:[aftermatter0901@daum.net](https://www.linkedin.com/in/%EC%88%98%EB%B9%88-%EC%A0%84-759557252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
 
 ## :mortar_board: Education
 `2020.03 -`
@@ -36,8 +39,6 @@ GPA (3.6/4.5)
 `2025.07`
 **충남톤 오거나이저**
 [Link](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate)
-
-
 
 ##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
