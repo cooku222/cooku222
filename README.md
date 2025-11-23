@@ -38,7 +38,7 @@ GPA (3.6/4.5)
 
 `2025.07`
 **충남톤 오거나이저**
-[Link](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate)
+[Link](https://community.bu.ac.kr/cci/6035/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY2NpJTJGMTU5MCUyRjUwODg0JTJGYXJ0Y2xWaWV3LmRvJTNG)
 
 ##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
