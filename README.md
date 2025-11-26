@@ -116,7 +116,7 @@ GPA (3.6/4.5)
 **화이트해커 플랫폼 WeChall 한국 순위 125위**
 
 `2025.11`
-**Aegis Tech Talk : DevSecOps 소개**
+**Aegis Tech Talk : DevSecOps 소개** [Link](https://youtu.be/Cyh8eIArs-c)
 
 ## 논문
 `2025.11 -` 
