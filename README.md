@@ -107,7 +107,7 @@ GPA (3.6/4.5)
 **구름톤 유니브 4기 단국대학교(천안) 백엔드&기획 스터디 진행**
 
 `2025.05`
-**Aegis CTF 출제진 참여**
+**Aegis CTF 출제진 참여** [Write-up Link](https://github.com/cooku222/AegisCTF2025)
 
 `2025.11`
 **화이트해커 플랫폼 Dreamhack 커뮤니티 순위 63위 (상위 1% 이내)**
