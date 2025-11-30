@@ -119,7 +119,8 @@ GPA (3.6/4.5)
 **Aegis Tech Talk : DevSecOps 소개** [Link](https://youtu.be/Cyh8eIArs-c)
 
 ## 논문
-`2025.11 -` 
+`2025.11.30` 
+**Cyber Security Contest : A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone** [Github](https://github.com/Cyber-Security-Contest/Kyber-Split)
 
 ## 🧑‍💻 Tech Stack
 
