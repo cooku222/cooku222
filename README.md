@@ -48,16 +48,14 @@ GPA (3.6/4.5)
 `2023` **단국대학교 성적우수 장학(물리학과 과 상위 3%)**
 
 ##  🏆 Awards & CTFs 
-| 대회 명 | 팀 명 | 상훈 | 뉴스 기사 | 비고 |
+| 대회 명 | 팀 명 | 상훈 | 뉴스 기사 & 관련 링크 | 비고 |
 |---------|-----|------|--------|---|
 | **2020 단국대학교 천안 BSM 센터 후기 공모전** | | **최우수상** |  |  |
 | **2024 용인시 K-HTML 해커톤** | **일상이상** |  **최우수상(팀장)** | [기사 링크](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=19411) | |
 | **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  |
 | **2025 Codegate CTF Quals** | **DKU_Aegis** | **119위** |  |  |
-| **2025 Hacktheon Sejong** | **고졸 사토루** | **42위** |  |  |
+| **2025 Hacktheon Sejong Quals** | **고졸 사토루** | **42위** |  |  |
 | **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** |  | 유관기업 입사로 인한 불참 |
-| **2025 ELECCON Quals** | **스카이맛 쿠키** |  |  |
-| **2025 AUTOHACK Quals** | **공하랑 없는 공하랑팀** |  |  |
 
 ##  🌱 Certificate
 `2024.03` **SQLD 취득**
@@ -82,6 +80,7 @@ GPA (3.6/4.5)
 | 딥보이스 & 보이스피싱 방지 AI 모델 개발 |  | 
 | Prowler NHN Cloud ISO 27001 감사 오픈소스 API 분석 문서 제작 | [오픈소스 링크](https://github.com/cooku222/prowler) [API 분석 문서 링크](https://www.notion.so/228bc6568a2080d1ad09d3b9fc82ddf0?source=copy_link) |
 | 머클트리와 암호화를 이용한 SBOM 기밀성 & 추적 가능성 검증 | [Link](https://github.com/cooku222/Sbom_Merkle)  |
+| 2025 제 11회 디지털범인을찾아라 디지털포렌식 보고서 | [Link](https://github.com/cooku222/-Digital-Forensics-Investigation-Contest-2025-Write-up-Repository) |
 
 ##  🚀 기술 공유 
 `2020 - `
