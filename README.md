@@ -117,6 +117,9 @@ GPA (3.6/4.5)
 `2025.11`
 **Aegis Tech Talk : DevSecOps 소개** [Link](https://youtu.be/Cyh8eIArs-c)
 
+`2025.12`
+**HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들(발표 예정)** [Link](https://holyshield2025.com/conference/sessions/13)
+
 ## 논문
 `2025.11.30` 
 **Cyber Security Contest : A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone** [Github](https://github.com/Cyber-Security-Contest/Kyber-Split)
