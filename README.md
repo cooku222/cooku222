@@ -55,7 +55,7 @@ GPA (3.6/4.5)
 | **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  |
 | **2025 Codegate CTF Quals** | **DKU_Aegis** | **119위** |  |  |
 | **2025 Hacktheon Sejong Quals** | **고졸 사토루** | **42위** |  |  |
-| **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** |  | 유관기업 입사로 인한 본선 불참 |
+| **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** | [Write-up Link (비밀번호 : 1204)](https://cookusuniverse.tistory.com/395) | 유관기업 입사로 인한 본선 불참 |
 | **2025 Cyber Security Contest** |  |  **대상** | [Github Repository Link](https://github.com/Cyber-Security-Contest/Kyber-Split) | 논문 부문으로 참가 |
 
 ##  🌱 Certificate
