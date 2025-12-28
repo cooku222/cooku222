@@ -85,6 +85,7 @@ GPA (3.6/4.5)
 | Prowler NHN Cloud ISO 27001 감사 오픈소스 API 분석 문서 제작 | [오픈소스 링크](https://github.com/cooku222/prowler) [API 분석 문서 링크](https://www.notion.so/228bc6568a2080d1ad09d3b9fc82ddf0?source=copy_link) |
 | Merkle-Tree 기반 SBOM 추적 가능성 및 기밀성 검증 프레임워크 | [Link](https://github.com/cooku222/Sbom_Merkle)  |
 | 2025 제 11회 디지털범인을찾아라 디지털포렌식 보고서 | [Link](https://github.com/cooku222/-Digital-Forensics-Investigation-Contest-2025-Write-up-Repository) |
+| 버그바운티 초보자인 내가 한 달 동안 실제로 한 것들 |  |
 
 ##  🚀 기술 공유 
 `2020 - `
