@@ -142,7 +142,7 @@ GPA (3.6/4.5)
 <img src="https://img.shields.io/badge/Flutter.dart-000000?style=for-the-badge&logo=flutter.dart&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
 
 ### Back End
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FastAPI-6DB33F?style=for-the-badge&logo=fastapi&logoColor=ffffff"/>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/> 
@@ -151,9 +151,9 @@ GPA (3.6/4.5)
 <img src="https://img.shields.io/badge/Web-4479A1?style=for-the-badge&logo=Web&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Forensic-4479A1?style=for-the-badge&logo=forensic&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Crypto-4479A1?style=for-the-badge&logo=Crypto&logoColor=ffffff"/> <img src="https://img.shields.io/badge/OSINT-4479A1?style=for-the-badge&logo=osint&logoColor=ffffff"/>
 
 ### DevSecOps 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/> <img src="https://img.shields.io/badge/K8s-2496ED?style=for-the-badge&logo=K8s&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/> <img src="https://img.shields.io/badge/K8s-2496ED?style=for-the-badge&logo=k8s&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff"/>
 
 ### Product Planning & cooperation Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Discord-232F3E?style=for-the-badge&logo=Discord&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Slack-232F3E?style=for-the-badge&logo=slack&logoColor=ffffff"/> 
+<img src="https://img.shields.io/badge/Discord-232F3E?style=for-the-badge&logo=discord&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Slack-232F3E?style=for-the-badge&logo=slack&logoColor=ffffff"/> 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=130&section=footer&fontSize=60&fontColor=5bc8fa&fontAlignY=45&animation=twinkling)
