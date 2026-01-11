@@ -151,8 +151,8 @@ GPA (3.6/4.5)
 ### Security & CTF 
 <img src="https://img.shields.io/badge/Web-4479A1?style=for-the-badge&logo=Web&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Forensic-4479A1?style=for-the-badge&logo=forensic&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Crypto-4479A1?style=for-the-badge&logo=Crypto&logoColor=ffffff"/> <img src="https://img.shields.io/badge/OSINT-4479A1?style=for-the-badge&logo=osint&logoColor=ffffff"/>
 
-### DevSecOps 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/> <img src="https://img.shields.io/badge/K8s-2496ED?style=for-the-badge&logo=k8s&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff"/>
+### DevOps vs DevSecOps
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/> <img src="https://img.shields.io/badge/K8s-2496ED?style=for-the-badge&logo=k8s&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=grafana&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Prometheus-232F3E?style=for-the-badge&logo=prometheus&logoColor=ffffff"/>
 
 ### Product Planning & cooperation Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=ffffff"/> 
