@@ -108,9 +108,6 @@ GPA (3.49/4.5)
 ### Offensive Security Tools
 <img src="https://img.shields.io/badge/Burp%20Suite-2B2B2B?style=for-the-badge&logo=Burp-Suite&logoColor=FF6633"/> 
 
-### Back End
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FastAPI-6DB33F?style=for-the-badge&logo=fastapi&logoColor=ffffff"/>
-
 ### Security & CTF 
 <img src="https://img.shields.io/badge/Web-4479A1?style=for-the-badge&logo=Web&logoColor=ffffff"/> 
 
