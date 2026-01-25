@@ -78,34 +78,20 @@ GPA (3.49/4.5)
 `2026.01` **Toeic Speaking IM3**
 
 ##  🖳 Project
-### 진행한 학부 프로젝트
+### 학부 주요 프로젝트
 | 프로젝트명 | 보기 |
 |------------|------|
-| 도서관 상호대차 서비스 웹 서비스 | [Link](https://github.com/cooku222/Inter-library-Loan) |
-| 용인시 노인 길 안내 애플리케이션 | [경로 찾기 Github Link](https://github.com/cooku222/Pilot_Function_1) [지도 구현 Github Link](https://github.com/cooku222/Pilot_Function_2) |
-| 집중력 스팬 측정 웹&앱 서비스 | [Link](https://github.com/cooku222/Focus_FE) |
-| 딥보이스 & 보이스피싱 방지 AI 모델 개발 |  | 
-| Prowler NHN Cloud ISO 27001 감사 오픈소스 API 분석 문서 제작 | [오픈소스 링크](https://github.com/cooku222/prowler) [API 분석 문서 링크](https://www.notion.so/228bc6568a2080d1ad09d3b9fc82ddf0?source=copy_link) |
 | Merkle-Tree 기반 SBOM 추적 가능성 및 기밀성 검증 프레임워크 | [Link](https://github.com/cooku222/Sbom_Merkle)  |
 | 2025 제 11회 디지털범인을찾아라 디지털포렌식 보고서 | [Link](https://github.com/cooku222/-Digital-Forensics-Investigation-Contest-2025-Write-up-Repository) |
-| 버그바운티 초보자인 내가 한 달 동안 실제로 한 것들 |  |
+| 버그바운티 초보자인 내가 한 달 동안 실제로 한 것들 | [Link](https://holyshield2025.com/conference/sessions/13) |
 
 ##  🚀 기술 공유 
 `2020 - `
 **개인 IT/보안 테크 블로그 운영, 400여개의 글 기고(2025.12 기준 총 조회수 6000+)**
 [Link](https://cookusuniverse.tistory.com)
 
-`2025.02`
-**대규모 리액트 웹/앱 개발 서평단 참여**
-
 `2025.04`
 **[코딩 교육 봉사활동] 대지중학교 코드클럽, 20시간**
-
-`2025.05 - 2025.06`
-**구름톤 유니브 4기 단국대학교(천안) 백엔드&기획 스터디 진행**
-
-`2025.11`
-**[교내 기술 공유] Aegis Tech Talk : DevSecOps 소개** [Link](https://youtu.be/Cyh8eIArs-c)
 
 `2025.12`
 **HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
