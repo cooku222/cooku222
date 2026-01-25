@@ -55,9 +55,7 @@ GPA (3.49/4.5)
 |---------|-----|------|--------|---|
 | **2020 단국대학교 천안 BSM 센터 후기 공모전** | | **최우수상** |  |  |
 | **2024 용인시 K-HTML 해커톤** | **일상이상** |  **최우수상(팀장)** | [기사 링크](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=19411) | |
-| **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  |
-| **2025 Codegate CTF Quals** | **DKU_Aegis** | **119위** |  |  |
-| **2025 Hacktheon Sejong Quals** | **고졸 사토루** | **42위** |  |  |
+| **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  | |
 | **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** | [Write-up Link (비밀번호 : 1204)](https://cookusuniverse.tistory.com/395) | 유관기업 입사로 인한 본선 불참 |
 | **2025 DEFCON Red Team Village** | **ENKI_WHITEHAT**| 4위 ||회사 소속(Odin)으로 참여|
 | **2025 Cyber Security Contest** |  |  **대상** | [Github Repository Link](https://github.com/Cyber-Security-Contest/Kyber-Split) | 논문 부문으로 참가 |
@@ -97,32 +95,14 @@ GPA (3.49/4.5)
 **개인 IT/보안 테크 블로그 운영, 400여개의 글 기고(2025.12 기준 총 조회수 6000+)**
 [Link](https://cookusuniverse.tistory.com)
 
-`2024.09` 
-**[교내 기술 공유] Aegis Tech Talk : WebHacking**
-
 `2025.02`
 **대규모 리액트 웹/앱 개발 서평단 참여**
-
-`2025.03`
-**[교내 기술 공유] Aegis Tech Talk : 자율주행자동차 내장 인공지능 소개**
 
 `2025.04`
 **[코딩 교육 봉사활동] 대지중학교 코드클럽, 20시간**
 
-`2025.05`
-**[교내 기술 공유] Aegis Tech Talk : System Hacking - Fastbin Dump 기법 소개**
-
 `2025.05 - 2025.06`
 **구름톤 유니브 4기 단국대학교(천안) 백엔드&기획 스터디 진행**
-
-`2025.05`
-**Aegis CTF 출제진 참여** [Write-up Link](https://github.com/cooku222/AegisCTF2025)
-
-`2025.11`
-**화이트해커 플랫폼 Dreamhack 커뮤니티 순위 63위 (2025.11 기준 상위 0.1% 이내)**
-
-`2025.11`
-**화이트해커 플랫폼 WeChall 한국 순위 125위**
 
 `2025.11`
 **[교내 기술 공유] Aegis Tech Talk : DevSecOps 소개** [Link](https://youtu.be/Cyh8eIArs-c)
@@ -139,25 +119,21 @@ GPA (3.49/4.5)
 ### Language
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/dart-A8B9CC?style=for-the-badge&logo=dart&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
 
-### Front End
-<img src="https://img.shields.io/badge/Flutter.dart-000000?style=for-the-badge&logo=flutter.dart&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/>
+### Offensive Security Tools
+<img src="https://img.shields.io/badge/Burp%20Suite-2B2B2B?style=for-the-badge&logo=Burp-Suite&logoColor=FF6633"/> 
 
 ### Back End
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FastAPI-6DB33F?style=for-the-badge&logo=fastapi&logoColor=ffffff"/>
 
-### Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/> 
-
 ### Security & CTF 
-<img src="https://img.shields.io/badge/Web-4479A1?style=for-the-badge&logo=Web&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Forensic-4479A1?style=for-the-badge&logo=forensic&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Crypto-4479A1?style=for-the-badge&logo=Crypto&logoColor=ffffff"/> <img src="https://img.shields.io/badge/OSINT-4479A1?style=for-the-badge&logo=osint&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Web-4479A1?style=for-the-badge&logo=Web&logoColor=ffffff"/> 
 
 ### Infra
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Naver%20Cloud-00C73C?style=for-the-badge&logo=naver-cloud&logoColor=009F2E"/>
 
 ### DevOps & DevSecOps
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/K8s-2496ED?style=for-the-badge&logo=k8s&logoColor=326CE5"/> <img src="https://img.shields.io/badge/Grafana-232F3E?style=for-the-badge&logo=grafana&logoColor=F46800"/> <img src="https://img.shields.io/badge/Prometheus-232F3E?style=for-the-badge&logo=prometheus&logoColor=E6522C"/> 
+<img src="https://img.shields.io/badge/K8s-FFFFFF?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
 
 ### Product Planning & cooperation Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Figma-232F3E?style=for-the-badge&logo=figma&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Discord-232F3E?style=for-the-badge&logo=discord&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Slack-232F3E?style=for-the-badge&logo=slack&logoColor=ffffff"/> 
+<img src="https://img.shields.io/badge/Discord-36393F?style=for-the-badge&logo=discord&logoColor=5865F2"/> <img src="https://img.shields.io/badge/Slack-1A1D21?style=for-the-badge&logo=slack&logoColor=4A154B"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/> 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=130&section=footer&fontSize=60&fontColor=5bc8fa&fontAlignY=45&animation=twinkling)
