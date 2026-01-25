@@ -132,7 +132,7 @@ GPA (3.49/4.5)
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Naver%20Cloud-00C73C?style=for-the-badge&logo=naver-cloud&logoColor=009F2E"/>
 
 ### DevOps & DevSecOps
-<img src="https://img.shields.io/badge/K8s-FFFFFF?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
+<img src="https://img.shields.io/badge/K8s-000000?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
 
 ### Product Planning & cooperation Tools
 <img src="https://img.shields.io/badge/Discord-36393F?style=for-the-badge&logo=discord&logoColor=5865F2"/> <img src="https://img.shields.io/badge/Slack-1A1D21?style=for-the-badge&logo=slack&logoColor=4A154B"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/> 
