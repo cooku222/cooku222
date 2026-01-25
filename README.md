@@ -114,9 +114,6 @@ GPA (3.49/4.5)
 ### Security & CTF 
 <img src="https://img.shields.io/badge/Web-4479A1?style=for-the-badge&logo=Web&logoColor=ffffff"/> 
 
-### Infra
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Naver%20Cloud-00C73C?style=for-the-badge&logo=naver-cloud&logoColor=009F2E"/>
-
 ### DevOps & DevSecOps
 <img src="https://img.shields.io/badge/K8s-000000?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
 
