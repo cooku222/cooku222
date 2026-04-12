@@ -16,9 +16,6 @@
 GPA (3.49/4.5)
 
 ##  💼 Career
-`2024.07 - 2025.01`
-**케이비즈수학과학학원 중등부 강사**
-
 `2025.07 - 2025.10`
 **엔키화이트햇 교육훈련팀 인턴**
 
@@ -53,7 +50,6 @@ GPA (3.49/4.5)
 ##  🏆 Awards & CTFs 
 | 대회 명 | 팀 명 | 상훈 | 뉴스 기사 & 관련 링크 | 비고 |
 |---------|-----|------|--------|---|
-| **2020 단국대학교 천안 BSM 센터 후기 공모전** | | **최우수상** |  |  |
 | **2024 용인시 K-HTML 해커톤** | **일상이상** |  **최우수상(팀장)** | [기사 링크](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=19411) | |
 | **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  | |
 | **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** | [Write-up Link (비밀번호 : 1204)](https://cookusuniverse.tistory.com/395) | 유관기업 입사로 인한 본선 불참 |
@@ -75,24 +71,16 @@ GPA (3.49/4.5)
 
 `2026.01` **Toeic Speaking IM3**
 
-##  🖳 Project
-### 학부 주요 프로젝트
-| 프로젝트명 | 보기 |
-|------------|------|
-| Merkle-Tree 기반 SBOM 추적 가능성 및 기밀성 검증 프레임워크 | [Link](https://github.com/cooku222/Sbom_Merkle)  |
-| 2025 제 11회 디지털범인을찾아라 디지털포렌식 보고서 | [Link](https://github.com/cooku222/-Digital-Forensics-Investigation-Contest-2025-Write-up-Repository) |
-| 버그바운티 초보자인 내가 한 달 동안 실제로 한 것들 | [Link](https://holyshield2025.com/conference/sessions/13) |
-
 ##  🚀 기술 공유 
 `2020 - `
-**개인 IT/보안 테크 블로그 운영, 400여개의 글 기고(2025.12 기준 총 조회수 6000+)**
+**개인 IT/보안 테크 블로그 운영, 400여개의 글 기고(2026.04 기준 총 조회수 7000+)**
 [Link](https://cookusuniverse.tistory.com)
 
 `2025.04`
 **[코딩 교육 봉사활동] 대지중학교 코드클럽, 20시간**
 
 `2025.12`
-**HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
+**제 9회 HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
 
 ## 논문
 `2025.11.30` 
