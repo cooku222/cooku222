@@ -99,7 +99,3 @@ GPA (3.49/4.5)
 
 ### DevOps & DevSecOps
 <img src="https://img.shields.io/badge/K8s-000000?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
-
-### Product Planning & cooperation Tools
-<img src="https://img.shields.io/badge/Discord-36393F?style=for-the-badge&logo=discord&logoColor=5865F2"/> <img src="https://img.shields.io/badge/Slack-1A1D21?style=for-the-badge&logo=slack&logoColor=4A154B"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/> 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=130&section=footer&fontSize=60&fontColor=5bc8fa&fontAlignY=45&animation=twinkling)
