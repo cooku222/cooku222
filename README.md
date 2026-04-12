@@ -30,7 +30,7 @@ GPA (3.49/4.5)
 **KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 단국대학교(천안) 대표, 3월 우수 지부 선정**
 
 `2025.03 -`
-**CTF Team : DKU_Aegis 멤버**
+**CTF Team : DKU_Aegis 회장**
 
 `2025.05 -`
 **CTF Team : RubiyaLab 멤버**
