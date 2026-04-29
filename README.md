@@ -91,7 +91,7 @@ GPA (3.49/4.5)
 ### Language
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
 
-### Offensive Security Tools
+### Red Teaming
 <img src="https://img.shields.io/badge/Burp%20Suite-2B2B2B?style=for-the-badge&logo=Burp-Suite&logoColor=FF6633"/> 
 
 ### Security & CTF 
