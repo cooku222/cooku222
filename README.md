@@ -20,7 +20,7 @@ GPA (3.49/4.5)
 **엔키화이트햇 교육훈련팀 인턴**
 
 `2026.01 - `
-**퍼블릭에이아이 기술개발팀 단국대학교 산학인턴**
+**퍼블릭에이아이 기술개발팀**
 
 ##  :clipboard: Experience
 `2024.09 -`
@@ -56,22 +56,7 @@ GPA (3.49/4.5)
 | **2025 DEFCON Red Team Village** | **ENKI_WHITEHAT**| 4위 ||회사 소속(Odin)으로 참여|
 | **2025 Cyber Security Contest** |  |  **대상** | [Github Repository Link](https://github.com/Cyber-Security-Contest/Kyber-Split) | 논문 부문으로 참가 |
 
-##  🌱 Certificate
-`2024.03` **SQLD 취득**
-
-`2024.12` **TMAX ACADEMY TABA 6기 수료**
-
-`2025.01` **OPic IM1**
-
-`2025.05` **우먼 IT's 3기 수료**
-
-`2025.09` **KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 프론트엔드 & 대표 수료**
-
-`2025.12` **정보처리기사 취득**
-
-`2026.01` **Toeic Speaking IM3**
-
-##  🚀 기술 공유 
+##  🚀 기술 공유 & Open Source Contribution
 `2020 - `
 **개인 IT/보안 테크 블로그 운영, 400여개의 글 기고(2026.04 기준 총 조회수 7000+)**
 [Link](https://cookusuniverse.tistory.com)
@@ -81,6 +66,9 @@ GPA (3.49/4.5)
 
 `2025.12`
 **제 9회 HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
+
+`2026.05 -`
+**Kubernetes**
 
 ## 논문
 `2025.11.30` 
@@ -99,3 +87,21 @@ GPA (3.49/4.5)
 
 ### DevOps & DevSecOps
 <img src="https://img.shields.io/badge/K8s-000000?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
+
+##  🌱 Certificate 
+`2024.03` **SQLD 취득**
+
+`2025.12` **정보처리기사 취득**
+
+## Language proficiency
+`2025.01` **OPic IM1**
+
+`2026.01` **Toeic Speaking IM3**
+
+## Completion
+`2024.12` **TMAX ACADEMY TABA 6기 수료**
+
+`2025.09` **KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 프론트엔드 & 대표 수료**
+
+
+
