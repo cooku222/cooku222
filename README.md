@@ -68,10 +68,10 @@ GPA (3.49/4.5)
 **제 9회 HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
 
 `2026.04 - `
-**Cloudbro AI** 
+**Cloudbro AI Member, Active bro** 
 
 `2026.05 - `
-**Kubernetes**
+**Kubernetes Contribution**
 
 
 
