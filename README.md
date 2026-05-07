@@ -65,8 +65,7 @@ GPA (3.49/4.5)
 **[코딩 교육 봉사활동] 대지중학교 코드클럽, 20시간**
 
 `2025.12`
-**제 9회 HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)**
-
+**제 9회 HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
 
 
 ## 논문
