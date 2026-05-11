@@ -60,11 +60,6 @@ GPA (3.49/4.5)
 `2025.12`
 **제 9회 HolyShield 2025 Conference : 버그바운티 초보자인 내가 한 달동안 실제로 한 것들** [Link](https://holyshield2025.com/conference/sessions/13)
 
-
-## 논문
-`2025.11.30` 
-**Cyber Security Contest : A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone** [Github](https://github.com/Cyber-Security-Contest/Kyber-Split)
-
 ## 🧑‍💻 Tech Stack
 
 ### Language
