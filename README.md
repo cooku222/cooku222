@@ -26,19 +26,12 @@ GPA (3.49/4.5)
 `2024.09 -`
 **단국대학교 개발&보안 동아리 Aegis 회원**
 
-`2025.02 - 2025.09`
-**KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 단국대학교(천안) 대표, 3월 우수 지부 선정**
-
 `2025.03 -`
 **CTF Team : DKU_Aegis 회장**
 
 `2025.05 -`
 **CTF Team : RubiyaLab 멤버**
 [Link](https://rubiyalab.team) 
-
-`2025.07`
-**충남톤 오거나이저**
-[Link](https://community.bu.ac.kr/cci/6035/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY2NpJTJGMTU5MCUyRjUwODg0JTJGYXJ0Y2xWaWV3LmRvJTNG)
 
 ##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
@@ -95,11 +88,6 @@ GPA (3.49/4.5)
 `2025.01` **OPic IM1**
 
 `2026.01` **Toeic Speaking IM3**
-
-## Completion
-`2024.12` **TMAX ACADEMY TABA 6기 수료**
-
-`2025.09` **KAKAO X 구름 주최 IT 연합동아리 구름톤 유니브 4기 프론트엔드 & 대표 수료**
 
 
 
