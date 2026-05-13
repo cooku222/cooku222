@@ -74,15 +74,5 @@ GPA (3.49/4.5)
 ### DevOps & DevSecOps
 <img src="https://img.shields.io/badge/K8s-000000?style=for-the-badge&logo=k8s&logoColor=326CE5"/> 
 
-##  🌱 Certificate 
-`2024.03` **SQLD 취득**
-
-`2025.12` **정보처리기사 취득**
-
-## Language proficiency
-`2025.01` **OPic IM1**
-
-`2026.01` **Toeic Speaking IM3**
-
 
 
