@@ -44,7 +44,7 @@ GPA (3.49/4.5)
 | 대회 명 | 팀 명 | 상훈 | 뉴스 기사 & 관련 링크 | 비고 |
 |---------|-----|------|--------|---|
 | **2024 용인시 K-HTML 해커톤** | **일상이상** |  **최우수상(팀장)** | [기사 링크](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=25&_dku_bbs_web_BbsPortlet_action=view&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=19411) | |
-| **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | [기사 링크](https://startup.dankook.ac.kr/-13?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=3&_dku_bbs_web_BbsPortlet_action=view_message&_dku_bbs_web_BbsPortlet_orderBy=createDate&_dku_bbs_web_BbsPortlet_bbsMessageId=62432) |  | |
+| **2024 단국대학교 창업아이디어 10팀 선정** | **일상이상** | **7위** | |  | |
 | **2025 Hacksium in Busan 동남권 해킹방어대회** | **우리빼고다뚫림** | **본선 진출(팀장)** | [Write-up Link (비밀번호 : 1204)](https://cookusuniverse.tistory.com/395) | 유관기업 입사로 인한 본선 불참 |
 | **2025 DEFCON Red Team Village** | **ENKI_WHITEHAT**| 4위 ||회사 소속(Odin)으로 참여|
 | **2025 Cyber Security Contest** |  |  **대상** | [Github Repository Link](https://github.com/Cyber-Security-Contest/Kyber-Split) | 논문 부문으로 참가 |
