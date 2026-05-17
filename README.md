@@ -49,7 +49,7 @@ GPA (3.49/4.5)
 | **2025 DEFCON Red Team Village** | **ENKI_WHITEHAT**| 4위 ||회사 소속(Odin)으로 참여|
 | **2025 Cyber Security Contest** |  |  **대상** | [Github Repository Link](https://github.com/Cyber-Security-Contest/Kyber-Split) | 논문 부문으로 참가 |
 
-##  🚀 기술 공유 & Open Source Contribution(Community)
+##  🚀 기술 공유
 `2020 - `
 **개인 IT/보안 테크 블로그 운영, 400여개의 글 기고(2026.04 기준 총 조회수 7000+)**
 [Link](https://cookusuniverse.tistory.com)
