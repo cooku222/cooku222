@@ -17,10 +17,10 @@ GPA (3.49/4.5)
 
 ##  💼 Career
 `2025.07 - 2025.10`
-**엔키화이트햇 교육훈련팀 인턴**
+**엔키화이트햇 교육훈련팀 WhiteHat Hacker Education Creator 인턴**
 
 `2026.01 - `
-**퍼블릭에이아이 기술개발팀 인턴**
+**퍼블릭에이아이 기술개발팀 Software Engineer 인턴**
 
 ##  :clipboard: Experience
 `2024.09 -`
