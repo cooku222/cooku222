@@ -39,6 +39,9 @@ DKU_Aegis CTF Team Lead
 **CTF Team : RubiyaLab 멤버**
 [Link](https://rubiyalab.team) 
 
+`2025.07`
+충남톤 오거나이저
+
 `2026.05`
 사내 제품 TTA GS 1등급 인증 기여
 
