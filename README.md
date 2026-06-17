@@ -19,7 +19,7 @@ GPA (3.49/4.5)
 `2025.07 - 2025.10`
 **엔키화이트햇 교육훈련팀 Education Creator 인턴**
 
-`2026.01 - `
+`2026.01 - 2026.07`
 **퍼블릭에이아이 기술개발팀 Software Engineer 인턴**
 
 ##  :clipboard: Experience
