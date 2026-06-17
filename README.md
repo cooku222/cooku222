@@ -26,6 +26,12 @@ GPA (3.49/4.5)
 `2024.09 -`
 **단국대학교 개발&보안 동아리 Aegis 회원**
 
+`2024.09 -`
+DKU_Aegis CTF Team 회원
+
+`2025.03 -`
+DKU_Aegis CTF Team Lead
+
 `2025.05 -`
 **CTF Team : RubiyaLab 멤버**
 [Link](https://rubiyalab.team) 
