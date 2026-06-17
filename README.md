@@ -48,8 +48,9 @@ GPA (3.49/4.5)
 
 ##  🚀 기술 공유
 `2020 - `
-**개인 IT/보안 테크 블로그 운영**
+**개인 IT/보안 테크 블로그 운영(이관 중)**
 [Link](https://cookusuniverse.tistory.com)
+-> [Link](https://docs.cooku222.kr)
 
 `2025.04`
 **[코딩 교육 봉사활동] 대지중학교 코드클럽, 20시간**
