@@ -54,6 +54,7 @@ DKU_Aegis CTF Team Lead
 
 ##  📝 Certificate
 `2024.04` SQLD
+
 `2025.12` 정보처리기사
 
 ##  📔 English
