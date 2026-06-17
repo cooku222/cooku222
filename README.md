@@ -36,6 +36,9 @@ DKU_Aegis CTF Team Lead
 **CTF Team : RubiyaLab 멤버**
 [Link](https://rubiyalab.team) 
 
+`2026.05`
+사내 제품 TTA GS 1등급 인증 기여
+
 ##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
 
