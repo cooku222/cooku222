@@ -36,7 +36,7 @@ TABA ACADEMY 6기 수료
 KAKAO X GOORM 구름톤 유니브 4기 단국대(천안) 대표
 
 `2025.03 -`
-DKU_Aegis CTF Team Lead
+CTF TEAM : DKU_Aegis CTF Team Lead
 
 `2025.05 -`
 **CTF Team : RubiyaLab 멤버**
