@@ -33,7 +33,7 @@ DKU_Aegis CTF Team 회원
 TABA ACADEMY 6기 수료
 
 `2025.02 - 2025.09`
-KAKAO X GOORM 구름톤 유니브 단국대(천안) 대표
+KAKAO X GOORM 구름톤 유니브 4기 단국대(천안) 대표
 
 `2025.03 -`
 DKU_Aegis CTF Team Lead
@@ -46,7 +46,7 @@ DKU_Aegis CTF Team Lead
 충남톤 오거나이저
 
 `2026.05`
-사내 제품 TTA GS 1등급 인증 기여
+**사내 제품 TTA GS 1등급 인증 기여**-GS 인증망 세팅 담당
 
 ##  🏆 ScholarShip
 `2020` **단국대학교 마일리지 장학(과내 최다 마일리지)**
